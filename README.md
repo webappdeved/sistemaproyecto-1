@@ -101,5 +101,5 @@ Utilizar Git y GitHub para gestionar las versiones del proyecto.
 Licencia
 El proyecto dispone de un archivo LICENSE en la raíz del repositorio. Consultar ese archivo para conocer las condiciones de uso, modificación y distribución del software.
 
-SISTEMAPROYECTO — TMC (Teknical May Cry)
+SISTEMAPROYECTO — TMC (Teknical May Cry).
 Proyecto Integrador Anual · Laboratorio de Programación · 2026
